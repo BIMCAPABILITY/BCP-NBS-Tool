@@ -38,16 +38,8 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 </div>
 
-<br/>
-### <div align="center">Version 0.1 </div>  
-  
 
-- Add Specification on multiple Objects by Categories.  
-  
 
-- Add different specification on each different Object Types.  
-
-<br/>
 Authors
 -------
 
