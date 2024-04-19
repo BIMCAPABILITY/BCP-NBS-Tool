@@ -2,6 +2,7 @@
   
 
 ### <div align="center">🚀 Specification Generator </div>  
+### <div align="center">Version 0.1 </div>  
   
 
 - Add Specification on multiple Objects by Categories.  
@@ -38,6 +39,17 @@
 
 
 
+Authors
+-------
+
+- Bino Tuliao  | [GitHub](https://github.com/bcp-bino) 
+
+
+Contributors
+-------
+
+- Avi Singhal  | [GitHub](https://github.com/bcp-avi)
+- Cathrine Macabuhay  | [GitHub](https://github.com/CathMacabuhayBIMCAP)
 
 
 
