@@ -41,7 +41,43 @@
 Installation
 -------
 
-- to do
+
+**Prerequisites:**
+
+Before proceeding with the steps outlined below, ensure you have the following prerequisites installed and set up:
+
+1. **Latest PyRevit:** Ensure that you have the latest version of PyRevit installed on your system. PyRevit is a powerful toolset for Autodesk Revit that extends its functionality through Python scripting.
+
+2. **Revit 2021 or Above:** This process requires Autodesk Revit software version 2021 or later installed on your computer. Make sure your Revit software is up-to-date to ensure compatibility with the PyRevit tool.
+
+**Steps:**
+
+Follow these steps to install and utilize the BCP/NBS Tool Script in Dynamo with PyRevit:
+
+1. **Open Dynamo inside Revit:**
+   - Launch Autodesk Revit software on your computer.
+   - Navigate to the "Dynamo" tab located within the Revit interface.
+   - Click on "Dynamo" to open the Dynamo visual programming environment.
+
+2. **Open the BCP/NBS Tool Script in Dynamo:**
+   - Once Dynamo is open, locate and open the BCP/NBS Tool Script.
+   - This script contains the necessary instructions and logic for the BCP/NBS tool.
+
+3. **Download Required Packages:**
+   - Within the BCP/NBS Tool Script, there may be dependencies or required packages indicated.
+   - Download and install any packages indicated within the script to ensure its proper functionality.
+   - These packages may include additional nodes, libraries, or functionalities necessary for the tool to operate effectively.
+
+4. **Install the Dynamo Script using PyRevit:**
+   - After ensuring all prerequisites are met and packages are installed, return to the Autodesk Revit interface.
+   - Utilize PyRevit to install the Dynamo script.
+   - PyRevit will facilitate the conversion of the Design Script Syntax used within Dynamo into Python Syntax.
+   - This conversion process enables PyRevit to integrate the Dynamo script seamlessly into Revit's workflow.
+   - PyRevit further enhances the tool's performance by translating it into C++, thereby optimizing its functionality within the Revit environment.
+
+By following these steps, you can effectively integrate the BCP/NBS Tool Script into Autodesk Revit using Dynamo and PyRevit. This integration enhances Revit's capabilities and extends its functionality through custom scripting, enabling more efficient and streamlined workflows for architectural design and construction projects.
+
+
 
 Authors
 -------
